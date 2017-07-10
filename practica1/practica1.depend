@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1499569563 source:c:\users\user\desktop\practica1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497494526 c:\users\user\desktop\practica1\arraylist.h
+
+1499574198 source:c:\users\user\desktop\practica1\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499647425 source:c:\users\user\desktop\practica1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Random.h"
+
+1499574218 c:\users\user\desktop\practica1\functions.h
+
+1499644747 c:\users\user\desktop\practica1\random.h
+	"ArrayList.h"
+	"Functions.h"
+
+1499647548 source:c:\users\user\desktop\practica1\random.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Random.h"
+
