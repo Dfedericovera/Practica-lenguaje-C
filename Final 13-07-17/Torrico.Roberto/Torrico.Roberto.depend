@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1499569564 source:d:\final\torrico.roberto\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1497494526 d:\final\torrico.roberto\arraylist.h
+
+1499991384 source:d:\final\torrico.roberto\class.log.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Log.h"
+	"Class.Services.h"
+
+1499974918 d:\final\torrico.roberto\functions.h
+
+1499991618 d:\final\torrico.roberto\class.log.h
+	"ArrayList.h"
+
+1499985615 source:d:\final\torrico.roberto\class.services.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Services.h"
+
+1499974938 source:d:\final\torrico.roberto\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1499990362 source:d:\final\torrico.roberto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Functions.h"
+	"Class.Log.h"
+	"Class.Services.h"
+
+1499985217 d:\final\torrico.roberto\class.services.h
+	"ArrayList.h"
+
